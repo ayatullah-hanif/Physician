@@ -1,0 +1,8 @@
+{
+  "name": "PHYSICIAN - Kinematic Reasoning Engine",
+  "description": "A mission-critical deterministic kinematic reasoning interface for robotics and physical AI verification using Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

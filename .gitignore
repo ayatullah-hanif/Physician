@@ -1,0 +1,28 @@
+# ======================
+# Environment variables
+# ======================
+.env
+.env.*
+backend/.env
+backend/.env.*
+
+# ======================
+# Python
+# ======================
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# ======================
+# Frontend
+# ======================
+node_modules/
+dist/
+build/
+
+# ======================
+# OS junk
+# ======================
+.DS_Store
+Thumbs.db
